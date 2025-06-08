@@ -1,4 +1,5 @@
-# Professional Long Straddle Options Trading Dashboard
+# Create a comprehensive README file for the project
+readme_content = '''# Professional Long Straddle Options Trading Dashboard
 
 A comprehensive web application for analyzing and managing long straddle options strategies around earnings announcements. This dashboard provides sophisticated analytics for profiting from volatility increases that typically occur when companies report quarterly results.
 
@@ -202,4 +203,10 @@ If you encounter any issues or have questions:
 
 **Happy Trading! 📈**
 
-*Built with ❤️ for options traders who love volatility around earnings.*
+*Built with ❤️ for options traders who love volatility around earnings.*'''
+
+# Save the README file
+with open('README.md', 'w', encoding='utf-8') as f:
+    f.write(readme_content)
+
+print("README.md file created successfully!")

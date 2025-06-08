@@ -1,0 +1,26 @@
+
+LONG STRADDLE DASHBOARD - DEPLOYMENT PACKAGE
+===========================================
+
+Files Included:
+- index.html (Main application file)
+- style.css (Professional styling)
+- script.js (Complete functionality)
+- README.md (Documentation)
+
+Key Improvements Made:
+1. Stock selection via dropdown (not text input)
+2. Auto-updating earnings date on company selection
+3. Added options expiry date field
+4. Professional long straddle calculations
+5. Enhanced form validation and error handling
+6. Mobile-responsive design
+7. Strategy persistence with localStorage
+8. Earnings calendar with filtering
+
+Deployment Instructions:
+1. Upload all 4 files to your GitHub repository
+2. Enable GitHub Pages in repository settings
+3. Access your dashboard at: https://yourusername.github.io/repository-name/
+
+The dashboard is now production-ready with institutional-quality features!
